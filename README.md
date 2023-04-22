@@ -10,7 +10,7 @@ This project is deployed in link [https://rajsrm2021.github.io/project-sorting-v
 
 Installation:
 ```
-$ git clone https://github.com/anandman03/algorithm-visualizer-react-app.git
+$ git clone https://github.com/rajsrm2021/project-sorting-visualizer.git
 $ cd algorithm-visualizer-react-app
 $ npm install
 ```
