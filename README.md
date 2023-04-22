@@ -6,13 +6,22 @@ This is a progressive web app built using React.js to visualize sorting algorith
 
 This project is deployed in link [https://rajsrm2021.github.io/project-sorting-visualizer/).
 
-# Installation and Setup Instructions
+## Installation and Setup Instructions
 
 Installation:
-
-$ git clone https://github.com/rajsrm2021/project-sorting-visualizer.git .\
-$ cd algorithm-visualizer-react-app .\
-$ npm install .\
+```
+$ git clone https://github.com/anandman03/algorithm-visualizer-react-app.git
+$ cd algorithm-visualizer-react-app
+$ npm install
+```
+To start server:
+```
+$ npm start
+```
+To Visit App in any browser:
+```
+http://localhost:3000/
+```
 
 ## Available Scripts
 
