@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# This Project is created using react
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed in link [https://rajsrm2021.github.io/project-sorting-visualizer/).
 
 ## Available Scripts
 
