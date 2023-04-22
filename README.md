@@ -10,9 +10,9 @@ This project is deployed in link [https://rajsrm2021.github.io/project-sorting-v
 
 Installation:
 
-$ git clone https://github.com/rajsrm2021/project-sorting-visualizer.git
-$ cd algorithm-visualizer-react-app
-$ npm install
+$ git clone https://github.com/rajsrm2021/project-sorting-visualizer.git .\
+$ cd algorithm-visualizer-react-app .\
+$ npm install .\
 
 ## Available Scripts
 
