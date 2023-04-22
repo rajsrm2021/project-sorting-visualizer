@@ -1,3 +1,7 @@
+#Sorting Visualizer
+
+This is a progressive web app built using React.js to visualize sorting algorithms such as bubble, insertion, selection, merge, quick, heap and twist sort. This app is deployed with GitHub pages and can be accessed here: Link. I hope you have fun playing around with it.
+
 # This Project is created using react
 
 This project is deployed in link [https://rajsrm2021.github.io/project-sorting-visualizer/).
